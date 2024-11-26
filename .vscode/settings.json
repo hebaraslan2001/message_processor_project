@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./ingestor",
+        "./engine",
+        "./producer"
+    ]
+}
